@@ -14,7 +14,7 @@ Code of DEV
 in progress...
 ```
 
-- [X] CSS
-- [X] HTML
-- [ ] JS
+- [X] CSS - 25.1%
+- [X] HTML - 50.9 %
+- [X] JS - 24.0 %
 
