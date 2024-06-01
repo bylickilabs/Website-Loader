@@ -10,7 +10,7 @@
 | CSS | HTML | JS |
 |---|---|---|
 
-- [X] CSS
-- [X] HTML
-- [X] JS
+- [✅] CSS
+- [✅] HTML
+- [✅] JS
 
