@@ -15,6 +15,6 @@ in progress...
 ```
 
 - [X] CSS
-- [ ] HTML
+- [X] HTML
 - [ ] JS
 
