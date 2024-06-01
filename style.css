@@ -2,6 +2,7 @@
   box-sizing: border-box;
 }
 
+
 body {
   font-family: sans-serif;
   display: flex;
@@ -11,4 +12,18 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+}
+
+
+/* YOUR IMAGE - HOSTED BY imgbb.com _ FAST AND EASY */
+.background {
+  background: url(https://i.ibb.co/B6XCw9F/splashscreen.png) 
+  no-repeat center center/cover;
+  position: absolute;
+  top: -30px;
+  left: -30px;
+  width: calc(100vw + 60px);
+  height: calc(100vh + 60px);
+  z-index: -1;
+  fill: blue(0);
 }
