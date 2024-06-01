@@ -1,0 +1,47 @@
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AlphaDevelopment</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <section class="background"></section>
+    <div class="loading-text">0%</div>
+
+    <script src="app.js"></script>
+	
+	
+
+	<br><br><br><br><br><script type="text/javascript">
+var buttontext = "ENTER "
+var id = "button"
+var zeit = 5 
+
+function buttonsperre()
+{
+    document.getElementById(id).disabled = true
+    document.getElementById(id).value = buttontext + "(" + zeit + ")"
+    if(zeit > 0)
+    {
+      zeit--
+      window.setTimeout('buttonsperre()',1000)
+    }
+    else
+    {
+      document.getElementById(id).disabled = false
+      document.getElementById(id).value = buttontext
+    }
+}
+</script>
+</head>
+<body onLoad="buttonsperre()">
+  
+<!-- Insert your link -->  
+<form action="YOUR_SITE_HERE" method="get">
+<input type="submit" name="submit" value="" id="button">
+</form>
+
+  </body>
+</html>
