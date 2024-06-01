@@ -15,7 +15,8 @@ body {
 }
 
 
-/* YOUR PICTURE */
+/* YOUR IMAGE - HOSTED BY imgbb.com _ FAST AND EASY */
+
 .background {
   background: url(https://i.ibb.co/B6XCw9F/splashscreen.png) 
   no-repeat center center/cover;
@@ -26,7 +27,9 @@ body {
   height: calc(100vh + 60px);
   z-index: -1;
   fill: blue(0);
+
 }
+
 
 .loading-text {
   font-size: 50px;
