@@ -14,7 +14,7 @@ Code of DEV
 in progress...
 ```
 
-- [ ] CSS
+- [X] CSS
 - [ ] HTML
 - [ ] JS
 
