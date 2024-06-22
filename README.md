@@ -1,7 +1,7 @@
 ### This project is READY to use...
 
-### Special thanks for supporting this project
-#9 yemanth-sai-kumar-1
+# Special thanks for supporting this project
+yemanth-sai-kumar-1
 
 
 
