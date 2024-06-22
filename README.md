@@ -1,6 +1,6 @@
 ### This project is READY to use...
 
-# Special thanks for supporting this project 
+Special thanks for supporting this project 
 | yemanth-sai-kumar-1 |
 |---|
 
