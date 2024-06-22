@@ -1,8 +1,8 @@
 ### This project is READY to use...
 
-| Special thanks for supporting this project| 
-|---|
-yemanth-sai-kumar-1/Website-Loader#9
+| Special thanks for supporting this project| yemanth-sai-kumar-1
+|---|---|
+
 
 
 |[VISIT EXAMPLE](https://bylickilabs.github.io/example.github.io/)|
