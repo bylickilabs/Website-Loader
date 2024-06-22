@@ -3,7 +3,7 @@
 | Special thanks for supporting this project | yemanth-sai-kumar-1 | [VISIT](https://github.com/yemanth-sai-kumar-1)|
 |---|---|---|
 
-- [x] #739
+- [x] #9
 - [ ] [https://github.com/bylickilabs/Website-Loader/tree/main]
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
